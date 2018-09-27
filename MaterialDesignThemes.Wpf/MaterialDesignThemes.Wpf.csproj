@@ -343,6 +343,7 @@
     <Compile Include="SnackbarMessageQueueItem.cs" />
     <Compile Include="Spelling.cs" />
     <Compile Include="ThemeAssist.cs" />
+    <Compile Include="Themes\MaterialDesignTheme.TextBox.cs" />
     <Compile Include="Transitions\CircleWipe.cs" />
     <Compile Include="IHintProxy.cs" />
     <Compile Include="Transitions\FadeWipe.cs" />
